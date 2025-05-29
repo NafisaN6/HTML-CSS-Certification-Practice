@@ -18,6 +18,9 @@ figcaption {
     display:inline;
     color:#032f0d;
 }
+.leftindent{
+    text-indent: 5em;
+}
 .sale {
     background-color: #AAEEFF;
     font-style:italic;
