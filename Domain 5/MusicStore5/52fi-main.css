@@ -19,7 +19,8 @@ figcaption {
     color:#032f0d;
 }
 .leftindent{
-    text-indent: 5em;
+   /* text-indent: 5em; */
+    padding-left: 5em;
 }
 .sale {
     background-color: #AAEEFF;
